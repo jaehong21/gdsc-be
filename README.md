@@ -1,4 +1,4 @@
-# Skrr Backend Server
+# GA(Gist Attendance) Backend Server
 
 This is the backend server for the Skrr app.
 
