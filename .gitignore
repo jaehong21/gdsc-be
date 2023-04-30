@@ -1,0 +1,11 @@
+.vscode
+.idea
+
+.env
+cover.prof
+
+/tmp
+/archive
+
+private.pem
+public.pem
